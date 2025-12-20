@@ -40,7 +40,7 @@
 <a href="https://cloud.copilotkit.ai?ref=github_readme">Try Copilot Cloud →</a>&nbsp;&nbsp;&nbsp;
 <a href="https://discord.gg/6dffbvGU3D?ref=github_readme">Join our Discord →</a>
 
-## 🚀 Getting Started
+## 🚀 Getting Started1
 
 1. Install: Run a simple CLI command
 1. Configure: Add CopilotKit provider to your app
